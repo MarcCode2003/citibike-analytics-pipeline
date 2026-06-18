@@ -1,7 +1,7 @@
 # CitiBike Urban Mobility Analytics Pipeline
 
 ## 📌 Project Overview
-An end-to-end relational infrastructure engineered to map, process, and analyze distributed hardware telemetry logs from the **CitiBike** smart-bike sharing system. This project demonstrates backend database design, query optimization, and technical data analytics to monitor live node statuses, tracking fleet availability, and minimizing infrastructure failure risks.
+An end-to-end relational infrastructure engineered to map, process, and analyze distributed hardware telemetry logs from the CitiBike smart-bike sharing system. Sourced from Google BigQuery public datasets, this project demonstrates robust backend database design, advanced SQL query optimization, and technical data analytics. The architecture translates raw, production-scale cloud datasets into optimized local schematics to monitor live node statuses, track fleet availability, and mitigate infrastructure failure risks.
 
 ---
 
