@@ -62,3 +62,11 @@ The processed data from the query above is piped directly into a native visual c
 ### 💡 Key Business Recommendations:
 1. **Dynamic Redistribution:** Fleet logistics teams should prioritize deploying distribution trucks to extract units from node **`5216.06`** (45 bikes available) and immediately refill nodes **`3762.08`** and **`5667.08`** (0 bikes available) to prevent commuter friction and service downtime.
 2. **Predictive Capacity Planning:** Stations flashing consecutive zero-bike telemetry markers during morning/evening rush hours flag high-demand commuter corridors, signaling a strategic need for physical dock expansion and capital resource allocation.
+
+---
+
+## 📂 Data Pipeline Artifacts & Datasets
+To review the structural transformation engineered through this relational optimization tracking matrix, the specific raw dataset logs and optimized output streams can be directly accessed below:
+
+* **Source File:** [📁 citibike_raw_telemetry.csv](citibike_raw_telemetry.csv) — The raw, unstructured distributed hardware telemetry logs capturing volatile node updates directly from the field.
+* **Output File:** [📊 citibike_optimized_output.csv](citibike_optimized_output.csv) — The cleaned, processed, and aggregated relational schema results filtered via the fleet optimization engine ready for production dashboard consumption.
